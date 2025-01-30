@@ -1,4 +1,4 @@
-# Churn Prediction Task 📊
+# Telecome Churn Prediction Task 📊
 
 ## Project Overview
 Customer churn is a significant issue for businesses, and predicting it accurately helps in taking proactive measures to retain customers. This project focuses on building a machine learning model to predict customer churn using various classification algorithms.
@@ -77,13 +77,3 @@ pip install pandas numpy scikit-learn imbalanced-learn xgboost lightgbm matplotl
 - **Name:** Zeyad Ahmed Mostafa  
 - **Email:** ziada00700@gmail.com  
 - **Phone:** +20 1200249877  
-
-## License
-This project is licensed under the MIT License.
-
-## Contributing
-Pull requests are welcome! If you have any improvements or suggestions, feel free to submit an issue or PR.
-
-## Acknowledgments
-Special thanks to the open-source community and datasets providers for making this project possible.
-
